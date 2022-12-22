@@ -5,3 +5,6 @@ itsdangerous==1.1.0
 Jinja2==2.11.3
 MarkupSafe==1.1.1
 Werkzeug==1.0.1
+Flask-RESTful==0.3.9
+tensorflow==2.10.0
+keras==2.10.0
